@@ -1,0 +1,6 @@
+Referência Bibliográfica:
+
+- SWEENEY, T. (2024). Desenvolvimento de Sistemas com Python e Interfaces Gráficas. Editora TechPress.
+- Documentação oficial CustomTkinter: https://github.com/TomSchimansky/CustomTkinter
+- Documentação oficial MySQL Connector/Python: https://dev.mysql.com/doc/connector-python/en/
+- OpenAI API Documentation: https://platform.openai.com/docs/api-reference
